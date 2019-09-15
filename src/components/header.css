@@ -1,0 +1,14 @@
+.header{
+    border-bottom: 3px double black;
+    font-family: monospace;
+    background-color: lightgrey;
+}
+
+.header h2{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 1.5rem;
+    margin-left: 10%;
+}
